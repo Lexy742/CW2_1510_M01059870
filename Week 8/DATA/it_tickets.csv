@@ -1,0 +1,2 @@
+title,ticket_id,priority,status,assigned_to,created_date
+"Cannot access VPN",TICKET-001,High,Open,alice,2025-01-10

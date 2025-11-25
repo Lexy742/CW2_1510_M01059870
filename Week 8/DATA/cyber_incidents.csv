@@ -1,0 +1,2 @@
+data,incident_type,severity,status,description,reported_by,reported_at
+2025-01-15,Phishing,High,Open,"Phishing email reported",lexy,2025-01-15
